@@ -1,9 +1,9 @@
 # Useful docker-compose
 
 -   [Mysql with phpMyAdmin](recipes/mysql_phpadmin.yml)
-    -   phpMyAdmin runs at ``
+    -   phpMyAdmin runs at `http://localhost/index.php`
 -   [PostgreSQL with pgAdmin4](recipes/postgresql_pgadmin4.yml)
-    -   pgAdmin4 runs at `http://localhost:5050`
+    -   pgAdmin4 runs at `http://localhost:5050/`
 
 ## LICENSE
 
